@@ -1,0 +1,41 @@
+Test Case: StartDate: 2016-03-23 11:22:16, EndDate: 2016-03-23 11:24:20
+
+2016-03-23 11:22 32.821-45fcc616-e711-46ac-8413-692cf7346be5 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:22:32.820 
+2016-03-23 11:22 38.639-def76e2a-dedd-415d-ac64-f0b9133fadfc LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:22:38.639 
+2016-03-23 11:22 39.400-10d80172-62ae-4b26-89d5-eff9117c2a8e LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:22:39.400 
+2016-03-23 11:22 42.355-bcecbc46-f7b9-46d7-a290-c08e8bcaf683 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:22:42.355 
+2016-03-23 11:22 44.133-12a9c1d7-77ce-429b-9ce6-252b6bd0d6cc LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:22:44.133 
+2016-03-23 11:22 47.232-055a2bb9-8670-43fd-bdbf-bff79b991be6 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:22:47.232 
+2016-03-23 11:22 49.324-4de4c3eb-4c59-4cc6-93ac-fb49bb59f1e7 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:22:49.324 
+2016-03-23 11:22 54.281-36488004-a422-448d-a642-b71941ec0ed1 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:22:54.281 
+2016-03-23 11:22 59.843-9c4913e6-d99f-4955-96f0-e86e38778b88 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:22:59.843 
+2016-03-23 11:23 01.095-33636676-5361-4928-9563-7b79c13c59f1 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:01.095 
+2016-03-23 11:23 03.716-72ce3dd7-f8ea-4007-9833-25f9b115f0c8 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:03.716 
+2016-03-23 11:23 07.672-14910c37-6ca0-4d42-8e05-369c11f9f90e LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:07.672 
+2016-03-23 11:23 08.371-287908a4-ba4a-486a-84f8-fdd2bec59fa0 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:08.371 
+2016-03-23 11:23 12.221-d4f61a99-96b0-4f5e-ac7d-45c1fba4bdde LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:12.221 
+2016-03-23 11:23 13.170-b1e66610-1487-4d3e-b340-36ba9828b29f LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:13.170 
+2016-03-23 11:23 15.267-49b31037-1838-433c-a83a-34ec5ac8b29b LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:15.267 
+2016-03-23 11:23 17.033-cf74258f-ccce-4b4e-808a-ad491cf4c63e LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:17.033 
+2016-03-23 11:23 20.832-447265fb-751d-4a28-a0fd-8eb6ee466470 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:20.832 
+2016-03-23 11:23 21.292-46e5ce22-2bb1-4635-99a9-9a4dc3282117 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:21.292 
+2016-03-23 11:23 25.745-1966cecf-d07d-4d9b-9058-76f46796f2b7 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:25.745 
+2016-03-23 11:23 30.097-d429bcb3-4fe6-4678-8358-540090e8586b LogAzure.Controllers.HomeController end of 1 x 1000 records 
+2016-03-23 11:23 30.233-e49dd941-c132-4a11-9def-53b3f9b47161 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:30.233 
+2016-03-23 11:23 32.806-3c702f94-1c57-4094-8534-e5f8570455da LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:32.806 
+2016-03-23 11:23 36.307-81031e6d-d40b-4ce8-a6b2-5b80ecb051d6 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:36.307 
+2016-03-23 11:23 36.592-838a9690-8d82-4bb1-a436-c90f63056063 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:36.592 
+2016-03-23 11:23 37.633-a824203c-9171-4b84-840b-bbbf9fb46fcf LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:37.633 
+2016-03-23 11:23 42.184-b79687cc-ed42-46d3-bc32-70ca1fcef36b LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:42.184 
+2016-03-23 11:23 44.055-0c629c7a-d247-42da-ab0f-e0369ab58c6b LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:44.055 
+2016-03-23 11:23 49.032-a2e77f5a-fd23-4e66-bbec-4ff5f96c2b82 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:49.032 
+2016-03-23 11:23 51.898-9dce3e43-b127-4fc4-b788-d06ebd4ef902 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:51.898 
+2016-03-23 11:23 52.178-ee24df8e-97b9-4ba8-a4ec-a2e8212e84de LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:52.178 
+2016-03-23 11:23 52.707-b1fb2bd1-f955-437f-a3a8-ba9fec1d3817 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:52.707 
+2016-03-23 11:23 57.532-e1e37f97-27f2-47af-a133-bc9c00b49c5b LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:23:57.532 
+2016-03-23 11:24 02.062-94780897-6b3a-4ed9-8f22-b70b75348d16 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:24:02.062 
+2016-03-23 11:24 03.879-3913452d-b114-4a85-81ef-f452a1999841 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:24:03.879 
+2016-03-23 11:24 08.143-693a512f-9e19-49ed-bba4-f41d4c2f2cb7 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:24:08.143 
+2016-03-23 11:24 12.906-820e4c44-15ab-40cc-be2d-aba92729b76c LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:24:12.906 
+2016-03-23 11:24 17.853-6359bb87-eecc-4d82-ba68-4828e9ebc1b6 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:24:17.853 
+2016-03-23 11:24 20.454-67473958-4124-4497-99a6-cfc7b6922f69 LogAzure.Controllers.HomeController Application starts at 2016-03-23 11:24:20.454 

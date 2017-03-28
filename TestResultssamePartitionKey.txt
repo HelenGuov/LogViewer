@@ -1,0 +1,17 @@
+Test Case: StartDate: 2016-03-18 15:41:16, EndDate: 2016-03-18 15:41:20
+
+2016-03-18 15:41 16.483-94684e97-f7c7-4014-a3e4-b515ed276dc0 LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:16.467 
+2016-03-18 15:41 17.530-3f52080a-8cac-4b48-9798-7b5c4efb22b3 LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:17.530 
+2016-03-18 15:41 17.688-a0776f51-e296-4721-b835-67cd76fe476b LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:17.688 
+2016-03-18 15:41 17.894-a92f3559-d8cd-45aa-8352-f1bf90a62dc2 LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:17.894 
+2016-03-18 15:41 18.094-1c5be4a2-60a9-4707-89f1-aa68e9eb27a7 LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:18.094 
+2016-03-18 15:41 18.302-88f40ea0-1094-4073-ba04-816867d478d5 LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:18.302 
+2016-03-18 15:41 18.498-61aeb026-e162-477d-bdb8-e9bc4eae2c2f LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:18.498 
+2016-03-18 15:41 18.694-311899b6-664f-472e-86d9-5f18629e6b71 LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:18.694 
+2016-03-18 15:41 18.887-e28d255c-9a8e-4d28-84d8-1e14c15f466e LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:18.887 
+2016-03-18 15:41 19.033-d8ca8c97-ab6d-4c87-b5ad-e97b974bbc79 LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:19.032 
+2016-03-18 15:41 19.146-db9300e2-27d2-4a98-b5c9-205aefa9b108 LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:19.146 
+2016-03-18 15:41 19.340-84e1a87e-297e-4861-896f-0bfdeab3181f LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:19.340 
+2016-03-18 15:41 19.536-b9b49765-4ef7-4ded-98fd-b64f6ed06abd LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:19.536 
+2016-03-18 15:41 19.732-36a60019-b23b-43dc-bc69-832666e41c77 LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:19.732 
+2016-03-18 15:41 19.932-f5e1c28f-cf98-4fc6-bf0e-4f3d4ac394a3 LogAzure.Controllers.HomeController Application starts at 2016-03-18 15:41:19.932 

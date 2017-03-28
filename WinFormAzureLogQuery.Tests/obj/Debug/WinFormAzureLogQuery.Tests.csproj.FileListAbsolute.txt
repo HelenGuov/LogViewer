@@ -1,0 +1,1 @@
+C:\Users\Hiang\Dropbox\IndustryConnect\06_Logging\WinFormAzureLogQuery\WinFormAzureLogQuery.Tests\obj\Debug\WinFormAzureLogQuery.Tests.csprojResolveAssemblyReference.cache
